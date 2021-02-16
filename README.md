@@ -5,4 +5,5 @@ Based on Brad Traversy's Project from JS Udemy course
 
 To-do list:
 1: Improve the alert
-2: Improve UI
+2: Improve UI using CSS
+3: Validate
